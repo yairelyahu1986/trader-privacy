@@ -1,0 +1,2 @@
+# trader-privacy
+Privacy policy
